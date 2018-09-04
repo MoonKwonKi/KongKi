@@ -1,0 +1,1 @@
+SELECT stu_no, stu_name FROM student WHERE stu_dept not in ('컴퓨터정보','기계'); 
